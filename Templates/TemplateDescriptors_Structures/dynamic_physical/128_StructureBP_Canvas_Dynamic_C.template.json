@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.1",
+  "identity": {
+    "id": "128_StructureBP_Canvas_Dynamic_C",
+    "type": "static",
+    "abstract": true,
+    "label": null,
+    "category": null,
+    "base_template": null
+  },
+  "resolved": {
+    "asset_dir": "Structures",
+    "pnt": "128_StructureBP_Canvas_Dynamic_C.pnt"
+  },
+  "layout": {
+    "raster": {
+      "width": 128,
+      "height": 128
+    },
+    "dynamic": null
+  },
+  "encode": {
+    "paint_area": {
+      "x": 0,
+      "y": 0,
+      "width": 128,
+      "height": 128
+    },
+    "planks": null
+  },
+  "dynamic": null,
+  "preview": {
+    "mode": null,
+    "overlay_dir": null,
+    "base_name": null,
+    "world_scale": null,
+    "show_indices": null
+  },
+  "constraints": {
+    "max_colors": null,
+    "alpha_mode": null,
+    "palette_required": null
+  },
+  "capabilities": {
+    "supports_border": false,
+    "supports_dithering": false,
+    "supports_dynamic_resize": false
+  },
+  "multi_canvas": null,
+  "naming": {
+    "pattern": null
+  },
+  "meta": {}
+}

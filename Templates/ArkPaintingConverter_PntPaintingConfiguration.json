@@ -1,0 +1,778 @@
+[
+  {
+    "DisplayName": "Painting canvas",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Sign_PaintingCanvas_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Single flag",
+    "Width": 256,
+    "Height": 256,
+    "VisibleArea": {
+      "StartX": 27,
+      "StartY": 0,
+      "EndX": 227,
+      "EndY": 256
+    },
+    "Id": "Flag_SM_Single_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Multi-panel flag",
+    "Width": 256,
+    "Height": 256,
+    "VisibleArea": {
+      "StartX": 35,
+      "StartY": 0,
+      "EndX": 224,
+      "EndY": 256
+    },
+    "Id": "Flag_SM_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Wood sign",
+    "Width": 128,
+    "Height": 128,
+    "VisibleArea": {
+      "StartX": 0,
+      "StartY": 54,
+      "EndX": 128,
+      "EndY": 128
+    },
+    "Id": "Sign_Small_Wood_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Wood billboard",
+    "Width": 256,
+    "Height": 256,
+    "VisibleArea": {
+      "StartX": 0,
+      "StartY": 69,
+      "EndX": 256,
+      "EndY": 255
+    },
+    "Id": "Sign_Large_Wood_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Metal sign",
+    "Width": 128,
+    "Height": 128,
+    "VisibleArea": {
+      "StartX": 0,
+      "StartY": 58,
+      "EndX": 128,
+      "EndY": 128
+    },
+    "Id": "Sign_Small_Metal_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Metal billboard",
+    "Width": 256,
+    "Height": 256,
+    "VisibleArea": {
+      "StartX": 0,
+      "StartY": 109,
+      "EndX": 256,
+      "EndY": 256
+    },
+    "Id": "Sign_Large_Metal_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Warmap",
+    "Width": 512,
+    "Height": 512,
+    "VisibleArea": {
+      "StartX": 25,
+      "StartY": 26,
+      "EndX": 256,
+      "EndY": 248
+    },
+    "Id": "Sign_WarMap_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Wooden raft",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Raft_BP_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Spotlight",
+    "Width": 256,
+    "Height": 256,
+    "VisibleArea": {
+      "StartX": 13,
+      "StartY": 15,
+      "EndX": 243,
+      "EndY": 247
+    },
+    "Id": "StructureBP_SpotLight_C",
+    "Category": 0
+  },
+  {
+    "DisplayName": "Player character (Male)",
+    "Width": 512,
+    "Height": 512,
+    "Id": "PlayerPawnTest_Male_C",
+    "Category": 2
+  },
+  {
+    "DisplayName": "Player character (Female)",
+    "Width": 512,
+    "Height": 512,
+    "Id": "PlayerPawnTest_Female_C",
+    "Category": 2
+  },
+  {
+    "DisplayName": "Achatina",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Achatina_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Allosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Allo_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Anglerfish",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Angler_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Ankylosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Ankylo_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Araneo",
+    "Width": 256,
+    "Height": 256,
+    "Id": "SpiderS_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Archaeopteryx",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Archa_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Argentavis",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Argent_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Arthopluera",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Arthro_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Baryonyx",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Baryonyx_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Basilosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Basilosaurus_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Beelzebufo",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Toad_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Brontosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Sauropod_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Chalicotherium",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Chalico_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Carbonemys",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Turtle_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Carcharodontosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Carcha_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Carnotaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Carno_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Casteroides",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Beaver_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Compy",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Compy_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Daeodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Daeodon_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Dilophosaur",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Dilo_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Dimetrodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Dimetro_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Dimorphodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Dimorph_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Diplocaulus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Diplocaulus_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Diplodocus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Diplodocus_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Direbear",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Direbear_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Direwolf",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Direwolf_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Dodo",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Dodo_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Doedicurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Doed_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Dung Beetle",
+    "Width": 256,
+    "Height": 256,
+    "Id": "DungBeetle_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Dunkleosteus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Dunkle_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Electrophorus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Eel_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Equus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Equus_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Unicorn",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Equus_Character_BP_Unicorn_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Gallimimus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Galli_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Giganotosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Gigant_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Gigantopithecus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Bigfoot_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Hesperornis",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Hesperornis_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Hyaenodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Hyaenodon_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Ichthyornis",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Ichthyornis_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Ichthyosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Dolphin_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Iguanodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Iguanodon_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Kairuku",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Kairuku_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Kaprosuchus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Kaprosuchus_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Kentrosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Kentro_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Liopleurodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Liopleurodon_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Lystrosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Lystro_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Mammoth",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Mammoth_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Manta",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Manta_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Megalania",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Megalania_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Megaloceros",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Stag_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Megalodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Megalodon_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Megalosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Megalosaurus_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Megatherium",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Megatherium_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Mesopithecus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Monkey_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Microraptor",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Microraptor_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Mosasaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Mosa_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Moschops",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Moschops_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Onyc",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Bat_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Otter",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Otter_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Oviraptor",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Oviraptor_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Ovis",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Sheep_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Pachy",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Pachy_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Pachyrhinosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Pachyrhino_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Paracer",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Paracer_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Parasaur",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Para_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Pegomastax",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Pegomastax_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Pelagornis",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Pela_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Phiomia",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Phiomia_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Plesiosaur",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Plesiosaur_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Procoptodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Procoptodon_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Pteranodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Ptero_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Pulmonoscorpius",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Scorpion_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Purlovia",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Purlovia_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Quetzal",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Quetz_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Raptor",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Raptor_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Rex",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Rex_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Rhyniognatha",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Rhynio_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Sabertooth",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Saber_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Sarcosuchus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Sarco_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Spino",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Spino_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Stegosaurus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Stego_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Tapejara",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Tapejara_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Terror Bird",
+    "Width": 256,
+    "Height": 256,
+    "Id": "TerrorBird_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Therizinosaur",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Therizino_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Thylacoleo",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Thylacoleo_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Titanoboa",
+    "Width": 256,
+    "Height": 256,
+    "Id": "BoaFrill_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Titanosaur",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Titanosaur_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Triceratops",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Trike_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Troodon",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Troodon_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Tusoteuthis",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Tusoteuthis_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Woolly Rhino",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Rhino_Character_BP_C",
+    "Category": 1
+  },
+  {
+    "DisplayName": "Yutyrannus",
+    "Width": 256,
+    "Height": 256,
+    "Id": "Yutyrannus_Character_BP_C",
+    "Category": 1
+  }
+]

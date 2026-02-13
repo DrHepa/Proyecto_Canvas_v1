@@ -1,0 +1,637 @@
+[
+  {
+    "ColorHex": "FFFFFF",
+    "ArkHex": "00",
+    "DisplayName": "White"
+  },
+  {
+    "ColorHex": "330000",
+    "ArkHex": "04",
+    "DisplayName": "Burn"
+  },
+  {
+    "ColorHex": "660000",
+    "ArkHex": "05",
+    "DisplayName": "Scab"
+  },
+  {
+    "ColorHex": "B30000",
+    "ArkHex": "06",
+    "DisplayName": "Gore"
+  },
+  {
+    "ColorHex": "FF0000",
+    "ArkHex": "01",
+    "DisplayName": "Red"
+  },
+  {
+    "ColorHex": "FF7373",
+    "ArkHex": "08",
+    "DisplayName": "Tulip"
+  },
+  {
+    "ColorHex": "FFBFBF",
+    "ArkHex": "09",
+    "DisplayName": "Salmon"
+  },
+  {
+    "ColorHex": "D98D8D",
+    "ArkHex": "0A",
+    "DisplayName": "Incense"
+  },
+  {
+    "ColorHex": "A65353",
+    "ArkHex": "0B",
+    "DisplayName": "Edocha"
+  },
+  {
+    "ColorHex": "331900",
+    "ArkHex": "0C",
+    "DisplayName": "Bronze"
+  },
+  {
+    "ColorHex": "663300",
+    "ArkHex": "0D",
+    "DisplayName": "Terracotta"
+  },
+  {
+    "ColorHex": "B35900",
+    "ArkHex": "0E",
+    "DisplayName": "Windsor"
+  },
+  {
+    "ColorHex": "FF7F00",
+    "ArkHex": "0F",
+    "DisplayName": "Orange"
+  },
+  {
+    "ColorHex": "FFB973",
+    "ArkHex": "10",
+    "DisplayName": "Cantaloupe"
+  },
+  {
+    "ColorHex": "FFDFBF",
+    "ArkHex": "11",
+    "DisplayName": "Peach"
+  },
+  {
+    "ColorHex": "D9B38D",
+    "ArkHex": "12",
+    "DisplayName": "Latte"
+  },
+  {
+    "ColorHex": "A67C53",
+    "ArkHex": "13",
+    "DisplayName": "Dirt"
+  },
+  {
+    "ColorHex": "333300",
+    "ArkHex": "14",
+    "DisplayName": "Drab"
+  },
+  {
+    "ColorHex": "666600",
+    "ArkHex": "15",
+    "DisplayName": "Olive"
+  },
+  {
+    "ColorHex": "B2B300",
+    "ArkHex": "16",
+    "DisplayName": "Citron"
+  },
+  {
+    "ColorHex": "FFFF00",
+    "ArkHex": "17",
+    "DisplayName": "Yellow"
+  },
+  {
+    "ColorHex": "FFFF73",
+    "ArkHex": "18",
+    "DisplayName": "Canary"
+  },
+  {
+    "ColorHex": "FFFFBF",
+    "ArkHex": "19",
+    "DisplayName": "Buttermilk"
+  },
+  {
+    "ColorHex": "D9D98D",
+    "ArkHex": "1A",
+    "DisplayName": "Khaki"
+  },
+  {
+    "ColorHex": "A6A653",
+    "ArkHex": "1B",
+    "DisplayName": "Mold"
+  },
+  {
+    "ColorHex": "193300",
+    "ArkHex": "1C",
+    "DisplayName": "Swamp"
+  },
+  {
+    "ColorHex": "336600",
+    "ArkHex": "1D",
+    "DisplayName": "Avocado"
+  },
+  {
+    "ColorHex": "59B300",
+    "ArkHex": "1E",
+    "DisplayName": "Orc"
+  },
+  {
+    "ColorHex": "80FF00",
+    "ArkHex": "1F",
+    "DisplayName": "Chartreuse"
+  },
+  {
+    "ColorHex": "B9FF73",
+    "ArkHex": "20",
+    "DisplayName": "Menthol"
+  },
+  {
+    "ColorHex": "DFFFBF",
+    "ArkHex": "21",
+    "DisplayName": "Nyanza"
+  },
+  {
+    "ColorHex": "B3D98D",
+    "ArkHex": "22",
+    "DisplayName": "Putrescence"
+  },
+  {
+    "ColorHex": "7CA653",
+    "ArkHex": "23",
+    "DisplayName": "Filth"
+  },
+  {
+    "ColorHex": "003300",
+    "ArkHex": "24",
+    "DisplayName": "Nori"
+  },
+  {
+    "ColorHex": "006600",
+    "ArkHex": "25",
+    "DisplayName": "Hunter"
+  },
+  {
+    "ColorHex": "00B300",
+    "ArkHex": "26",
+    "DisplayName": "Emerald"
+  },
+  {
+    "ColorHex": "00FF00",
+    "ArkHex": "02",
+    "DisplayName": "Green"
+  },
+  {
+    "ColorHex": "73FF73",
+    "ArkHex": "28",
+    "DisplayName": "Mint"
+  },
+  {
+    "ColorHex": "BFFFBF",
+    "ArkHex": "29",
+    "DisplayName": "Pistachio"
+  },
+  {
+    "ColorHex": "8DD98D",
+    "ArkHex": "2A",
+    "DisplayName": "Celadon"
+  },
+  {
+    "ColorHex": "53A653",
+    "ArkHex": "2B",
+    "DisplayName": "Chateau"
+  },
+  {
+    "ColorHex": "00331A",
+    "ArkHex": "2C",
+    "DisplayName": "Jungle"
+  },
+  {
+    "ColorHex": "006633",
+    "ArkHex": "2D",
+    "DisplayName": "Forest"
+  },
+  {
+    "ColorHex": "00B359",
+    "ArkHex": "2E",
+    "DisplayName": "Lagoon"
+  },
+  {
+    "ColorHex": "00FF80",
+    "ArkHex": "2F",
+    "DisplayName": "Spring"
+  },
+  {
+    "ColorHex": "73FFB9",
+    "ArkHex": "30",
+    "DisplayName": "Aquamarine"
+  },
+  {
+    "ColorHex": "BFFFDF",
+    "ArkHex": "31",
+    "DisplayName": "Seafoam"
+  },
+  {
+    "ColorHex": "8DD9B3",
+    "ArkHex": "32",
+    "DisplayName": "Turquoise"
+  },
+  {
+    "ColorHex": "53A67C",
+    "ArkHex": "33",
+    "DisplayName": "Shamrock"
+  },
+  {
+    "ColorHex": "003333",
+    "ArkHex": "34",
+    "DisplayName": "Mariana"
+  },
+  {
+    "ColorHex": "006666",
+    "ArkHex": "35",
+    "DisplayName": "Skobeloff"
+  },
+  {
+    "ColorHex": "00B3B3",
+    "ArkHex": "36",
+    "DisplayName": "Teal"
+  },
+  {
+    "ColorHex": "00FFFF",
+    "ArkHex": "37",
+    "DisplayName": "Cyan"
+  },
+  {
+    "ColorHex": "73FFFF",
+    "ArkHex": "38",
+    "DisplayName": "Elecricity"
+  },
+  {
+    "ColorHex": "BFFFFF",
+    "ArkHex": "39",
+    "DisplayName": "Celeste"
+  },
+  {
+    "ColorHex": "8DD9D9",
+    "ArkHex": "3A",
+    "DisplayName": "Crystal"
+  },
+  {
+    "ColorHex": "53A6A6",
+    "ArkHex": "3B",
+    "DisplayName": "Ocean"
+  },
+  {
+    "ColorHex": "001A33",
+    "ArkHex": "3C",
+    "DisplayName": "Cetacean"
+  },
+  {
+    "ColorHex": "003366",
+    "ArkHex": "3D",
+    "DisplayName": "Prussian"
+  },
+  {
+    "ColorHex": "0059B3",
+    "ArkHex": "3E",
+    "DisplayName": "Sapphire"
+  },
+  {
+    "ColorHex": "007FFF",
+    "ArkHex": "3F",
+    "DisplayName": "Azure"
+  },
+  {
+    "ColorHex": "73B9FF",
+    "ArkHex": "40",
+    "DisplayName": "Babyblue"
+  },
+  {
+    "ColorHex": "BFDFFF",
+    "ArkHex": "41",
+    "DisplayName": "Cornflower"
+  },
+  {
+    "ColorHex": "8CB2D9",
+    "ArkHex": "42",
+    "DisplayName": "Overcast"
+  },
+  {
+    "ColorHex": "537CA6",
+    "ArkHex": "43",
+    "DisplayName": "Moonstone"
+  },
+  {
+    "ColorHex": "000033",
+    "ArkHex": "44",
+    "DisplayName": "Midnight"
+  },
+  {
+    "ColorHex": "000066",
+    "ArkHex": "45",
+    "DisplayName": "Navy"
+  },
+  {
+    "ColorHex": "0000B3",
+    "ArkHex": "46",
+    "DisplayName": "Cobalt"
+  },
+  {
+    "ColorHex": "0000FF",
+    "ArkHex": "03",
+    "DisplayName": "Blue"
+  },
+  {
+    "ColorHex": "7373FF",
+    "ArkHex": "48",
+    "DisplayName": "Denim"
+  },
+  {
+    "ColorHex": "BFBFFF",
+    "ArkHex": "49",
+    "DisplayName": "Ice"
+  },
+  {
+    "ColorHex": "8C8CD9",
+    "ArkHex": "4A",
+    "DisplayName": "Frost"
+  },
+  {
+    "ColorHex": "5353A6",
+    "ArkHex": "4B",
+    "DisplayName": "Deepfreeze"
+  },
+  {
+    "ColorHex": "190033",
+    "ArkHex": "4C",
+    "DisplayName": "Twilight"
+  },
+  {
+    "ColorHex": "330066",
+    "ArkHex": "4D",
+    "DisplayName": "Eminence"
+  },
+  {
+    "ColorHex": "5900B3",
+    "ArkHex": "4E",
+    "DisplayName": "Indigo"
+  },
+  {
+    "ColorHex": "8000FF",
+    "ArkHex": "4F",
+    "DisplayName": "Violet"
+  },
+  {
+    "ColorHex": "B973FF",
+    "ArkHex": "50",
+    "DisplayName": "Lilac"
+  },
+  {
+    "ColorHex": "DFBFFF",
+    "ArkHex": "51",
+    "DisplayName": "Lavender"
+  },
+  {
+    "ColorHex": "B38DD9",
+    "ArkHex": "52",
+    "DisplayName": "Mauve"
+  },
+  {
+    "ColorHex": "7C53A6",
+    "ArkHex": "53",
+    "DisplayName": "Royalty"
+  },
+  {
+    "ColorHex": "330033",
+    "ArkHex": "54",
+    "DisplayName": "Eggplant"
+  },
+  {
+    "ColorHex": "660066",
+    "ArkHex": "55",
+    "DisplayName": "Plum"
+  },
+  {
+    "ColorHex": "B200B3",
+    "ArkHex": "56",
+    "DisplayName": "Purple"
+  },
+  {
+    "ColorHex": "FF00FF",
+    "ArkHex": "57",
+    "DisplayName": "Magenta"
+  },
+  {
+    "ColorHex": "FF73FF",
+    "ArkHex": "58",
+    "DisplayName": "Pink"
+  },
+  {
+    "ColorHex": "FFBFFF",
+    "ArkHex": "59",
+    "DisplayName": "Cotton Candy"
+  },
+  {
+    "ColorHex": "D98DD9",
+    "ArkHex": "5A",
+    "DisplayName": "Orchid"
+  },
+  {
+    "ColorHex": "A653A6",
+    "ArkHex": "5B",
+    "DisplayName": "Bruise"
+  },
+  {
+    "ColorHex": "330019",
+    "ArkHex": "5C",
+    "DisplayName": "Raisin"
+  },
+  {
+    "ColorHex": "660033",
+    "ArkHex": "5D",
+    "DisplayName": "Tyrian"
+  },
+  {
+    "ColorHex": "B30059",
+    "ArkHex": "5E",
+    "DisplayName": "Lust"
+  },
+  {
+    "ColorHex": "FF007F",
+    "ArkHex": "5F",
+    "DisplayName": "Fuschia"
+  },
+  {
+    "ColorHex": "FF73B9",
+    "ArkHex": "60",
+    "DisplayName": "Flamingo"
+  },
+  {
+    "ColorHex": "FFBFDF",
+    "ArkHex": "61",
+    "DisplayName": "Valentine"
+  },
+  {
+    "ColorHex": "D98DB3",
+    "ArkHex": "62",
+    "DisplayName": "Kobi"
+  },
+  {
+    "ColorHex": "A6537C",
+    "ArkHex": "63",
+    "DisplayName": "Rouge"
+  },
+  {
+    "ColorHex": "191919",
+    "ArkHex": "64",
+    "DisplayName": "Black"
+  },
+  {
+    "ColorHex": "333333",
+    "ArkHex": "65",
+    "DisplayName": "Shadow"
+  },
+  {
+    "ColorHex": "4D4D4D",
+    "ArkHex": "66",
+    "DisplayName": "Charcoal"
+  },
+  {
+    "ColorHex": "666666",
+    "ArkHex": "67",
+    "DisplayName": "Gunmetal"
+  },
+  {
+    "ColorHex": "808080",
+    "ArkHex": "68",
+    "DisplayName": "Slate"
+  },
+  {
+    "ColorHex": "999999",
+    "ArkHex": "69",
+    "DisplayName": "Steel"
+  },
+  {
+    "ColorHex": "B3B3B3",
+    "ArkHex": "6A",
+    "DisplayName": "Grey"
+  },
+  {
+    "ColorHex": "CCCCCC",
+    "ArkHex": "6B",
+    "DisplayName": "Silver"
+  },
+  {
+    "ColorHex": "E6E6E6",
+    "ArkHex": "6C",
+    "DisplayName": "Wisp"
+  },
+  {
+    "ColorHex": "403522",
+    "ArkHex": "6E",
+    "DisplayName": "Mud"
+  },
+  {
+    "ColorHex": "594724",
+    "ArkHex": "6F",
+    "DisplayName": "Bark"
+  },
+  {
+    "ColorHex": "80642D",
+    "ArkHex": "70",
+    "DisplayName": "Brown"
+  },
+  {
+    "ColorHex": "99823D",
+    "ArkHex": "71",
+    "DisplayName": "Leather"
+  },
+  {
+    "ColorHex": "B39C59",
+    "ArkHex": "72",
+    "DisplayName": "Camel"
+  },
+  {
+    "ColorHex": "CCB266",
+    "ArkHex": "73",
+    "DisplayName": "Tan"
+  },
+  {
+    "ColorHex": "E6C973",
+    "ArkHex": "74",
+    "DisplayName": "Sand"
+  },
+  {
+    "ColorHex": "FFEFBF",
+    "ArkHex": "75",
+    "DisplayName": "Parchment"
+  },
+  {
+    "ColorHex": "F5F5DC",
+    "ArkHex": "76",
+    "DisplayName": "Cream"
+  },
+  {
+    "ColorHex": "994326",
+    "ArkHex": "77",
+    "DisplayName": "Brick"
+  },
+  {
+    "ColorHex": "FFA424",
+    "ArkHex": "78",
+    "DisplayName": "Tangerine"
+  },
+  {
+    "ColorHex": "FFC000",
+    "ArkHex": "79",
+    "DisplayName": "Gold"
+  },
+  {
+    "ColorHex": "F0F032",
+    "ArkHex": "7A",
+    "DisplayName": "Mustard"
+  },
+  {
+    "ColorHex": "B3E912",
+    "ArkHex": "7B",
+    "DisplayName": "Craggy-Dew"
+  },
+  {
+    "ColorHex": "227330",
+    "ArkHex": "7C",
+    "DisplayName": "Grass"
+  },
+  {
+    "ColorHex": "2AC6B6",
+    "ArkHex": "7D",
+    "DisplayName": "Stream"
+  },
+  {
+    "ColorHex": "007189",
+    "ArkHex": "7E",
+    "DisplayName": "Marine"
+  },
+  {
+    "ColorHex": "535872",
+    "ArkHex": "7F",
+    "DisplayName": "Haze"
+  },
+  {
+    "ColorHex": "8F4EA5",
+    "ArkHex": "80",
+    "DisplayName": "Dusk"
+  },
+  {
+    "ColorHex": "E6C3DD",
+    "ArkHex": "81",
+    "DisplayName": "Thistle"
+  },
+  {
+    "ColorHex": "FFBFCF",
+    "ArkHex": "82",
+    "DisplayName": "Bubblegum"
+  }
+]

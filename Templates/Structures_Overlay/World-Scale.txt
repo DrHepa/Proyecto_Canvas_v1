@@ -1,0 +1,55 @@
+PaintingCanvas = standard
+x = 1
+y = 1
+
+LargePaintingCanvas
+x = 2.2
+y = 2.2
+
+XLargePaintingCanvas
+x = 3.2
+y = 3.2
+
+Large Metal
+x = 6.5
+y = 3
+
+Large Wood
+x = 6.2
+y = 2.8
+
+Metal Small
+x = 2.1
+y = 1
+
+Wood Small
+x = 2.1
+y = 1
+
+Wall Metal
+x = 1.25
+y = 0.75
+
+Wall Wood
+x = 1.25
+y = 0.75
+
+Flag Single
+x = 3
+y = 3.5
+
+Flag SM
+x = 3
+y = 3.5
+
+Warmap
+x = 2.5
+y = 2.5
+
+Spotlight # El circulo entra a la perfección en 1 PaintingCanvas
+x = 1
+y = 1
+
+Raft # Pendiente de medición
+x = #
+y = #

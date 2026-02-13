@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.1",
+  "identity": {
+    "id": "structurebp_drawingsheet_c",
+    "label": "StructureBP Drawing Sheet",
+    "category": "Structures",
+    "type": null,
+    "base_template": null
+  },
+  "display": {
+    "label": "Drawing Sheet"
+  },
+  "dynamic": {
+    "param": "size",
+    "values": [
+      128,
+      192,
+      256,
+      320,
+      384,
+      448,
+      512,
+      576,
+      640,
+      704,
+      768,
+      832,
+      896,
+      968,
+      1024
+    ]
+  },
+  "naming": {
+    "pattern": "{size}_StructureBP_DrawingSheet_C.pnt"
+  },
+  "format": {
+    "type": "pnt",
+    "header_bytes": 20,
+    "encoding": "raster",
+    "endianness": "little"
+  },
+  "encode": {
+    "paint_area": "full_raster",
+    "planks": null
+  },
+  "constraints": {
+    "max_colors": 127,
+    "alpha_mode": "binary",
+    "palette_required": true
+  },
+  "capabilities": {
+    "supports_border": true,
+    "supports_dithering": true,
+    "supports_dynamic_resize": true
+  },
+  "resolved": {
+    "asset_dir": "Structures"
+  },
+  "meta": {
+    "notes": "Unified dynamic template replacing all White{size}_StructureBP_DrawingSheet_C variants",
+    "tags": [
+      "dynamic",
+      "structures"
+    ]
+  },
+  "layout": {
+    "raster": null,
+    "dynamic": null
+  },
+  "preview": {
+    "mode": null,
+    "overlay_dir": null,
+    "base_name": null,
+    "world_scale": null,
+    "show_indices": null
+  },
+  "multi_canvas": null
+}

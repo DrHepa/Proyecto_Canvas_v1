@@ -1,0 +1,2539 @@
+{
+  "version": "v1_observed",
+  "source": "ObservedMonochromaticDyes",
+  "notes": "Tabla de dyes sellada emp\u00edricamente a partir de PNTs monocrom\u00e1ticos. No inferencias.",
+  "dyes": [
+    {
+      "name": "White",
+      "game_id": 18,
+      "observed_byte": 0,
+      "observed_hex": "0x00",
+      "observed_source": [
+        "White_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFFFFF",
+      "linear_rgb": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": []
+    },
+    {
+      "name": "Red",
+      "game_id": 1,
+      "observed_byte": 1,
+      "observed_hex": "0x01",
+      "observed_source": [
+        "Red_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FF0000",
+      "linear_rgb": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": []
+    },
+    {
+      "name": "Green",
+      "game_id": 3,
+      "observed_byte": 2,
+      "observed_hex": "0x02",
+      "observed_source": [
+        "Green_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#00FF00",
+      "linear_rgb": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": []
+    },
+    {
+      "name": "Blue",
+      "game_id": 2,
+      "observed_byte": 3,
+      "observed_hex": "0x03",
+      "observed_source": [
+        "Blue_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#0000FF",
+      "linear_rgb": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": []
+    },
+    {
+      "name": "Burn Coloring",
+      "game_id": 128,
+      "observed_byte": 4,
+      "observed_hex": "0x04",
+      "observed_source": [
+        "Burn_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#330000",
+      "linear_rgb": [
+        0.2,
+        0.0,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Burn"
+      ]
+    },
+    {
+      "name": "Scab Coloring",
+      "game_id": 129,
+      "observed_byte": 5,
+      "observed_hex": "0x05",
+      "observed_source": [
+        "Scap_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#660000",
+      "linear_rgb": [
+        0.4,
+        0.0,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Scap"
+      ]
+    },
+    {
+      "name": "Gore Coloring",
+      "game_id": 130,
+      "observed_byte": 6,
+      "observed_hex": "0x06",
+      "observed_source": [
+        "Gore_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B30000",
+      "linear_rgb": [
+        0.702,
+        0.0,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Gore"
+      ]
+    },
+    {
+      "name": "Tulip Coloring",
+      "game_id": 132,
+      "observed_byte": 8,
+      "observed_hex": "0x08",
+      "observed_source": [
+        "Tulip_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FF7373",
+      "linear_rgb": [
+        1.0,
+        0.451,
+        0.451
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Tulip"
+      ]
+    },
+    {
+      "name": "Salmon Coloring",
+      "game_id": 133,
+      "observed_byte": 9,
+      "observed_hex": "0x09",
+      "observed_source": [
+        "Salmon_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFBFBF",
+      "linear_rgb": [
+        1.0,
+        0.749,
+        0.749
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Salmon"
+      ]
+    },
+    {
+      "name": "Incense Coloring",
+      "game_id": 134,
+      "observed_byte": 10,
+      "observed_hex": "0x0A",
+      "observed_source": [
+        "Incense_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#D98D8D",
+      "linear_rgb": [
+        0.851,
+        0.553,
+        0.553
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Incense"
+      ]
+    },
+    {
+      "name": "Edocha Coloring",
+      "game_id": 135,
+      "observed_byte": 11,
+      "observed_hex": "0x0B",
+      "observed_source": [
+        "Edocha_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#A65353",
+      "linear_rgb": [
+        0.651,
+        0.325,
+        0.325
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Edocha"
+      ]
+    },
+    {
+      "name": "Bronze Coloring",
+      "game_id": 136,
+      "observed_byte": 12,
+      "observed_hex": "0x0C",
+      "observed_source": [
+        "Bronze_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#331900",
+      "linear_rgb": [
+        0.2,
+        0.098,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Bronze"
+      ]
+    },
+    {
+      "name": "Terracotta Coloring",
+      "game_id": 137,
+      "observed_byte": 13,
+      "observed_hex": "0x0D",
+      "observed_source": [
+        "Terracotta_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#663300",
+      "linear_rgb": [
+        0.4,
+        0.2,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Terracotta"
+      ]
+    },
+    {
+      "name": "Windsor Coloring",
+      "game_id": 138,
+      "observed_byte": 14,
+      "observed_hex": "0x0E",
+      "observed_source": [
+        "Windsor_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B35900",
+      "linear_rgb": [
+        0.702,
+        0.349,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Windsor"
+      ]
+    },
+    {
+      "name": "Orange Coloring",
+      "game_id": 139,
+      "observed_byte": 15,
+      "observed_hex": "0x0F",
+      "observed_source": [
+        "Orange_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FF7F00",
+      "linear_rgb": [
+        1.0,
+        0.498,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Orange"
+      ]
+    },
+    {
+      "name": "Cantaloupe Coloring",
+      "game_id": 140,
+      "observed_byte": 16,
+      "observed_hex": "0x10",
+      "observed_source": [
+        "Cantauloupe_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFB973",
+      "linear_rgb": [
+        1.0,
+        0.725,
+        0.451
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Cantauloupe"
+      ]
+    },
+    {
+      "name": "Peach Coloring",
+      "game_id": 141,
+      "observed_byte": 17,
+      "observed_hex": "0x11",
+      "observed_source": [
+        "Peach_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFDFBF",
+      "linear_rgb": [
+        1.0,
+        0.875,
+        0.749
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Peach"
+      ]
+    },
+    {
+      "name": "Latte Coloring",
+      "game_id": 142,
+      "observed_byte": 18,
+      "observed_hex": "0x12",
+      "observed_source": [
+        "Latte_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#D9B38D",
+      "linear_rgb": [
+        0.851,
+        0.702,
+        0.553
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Latte"
+      ]
+    },
+    {
+      "name": "Dirt Coloring",
+      "game_id": 143,
+      "observed_byte": 19,
+      "observed_hex": "0x13",
+      "observed_source": [
+        "Dirt_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#A67C53",
+      "linear_rgb": [
+        0.651,
+        0.486,
+        0.325
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Dirt"
+      ]
+    },
+    {
+      "name": "Drab Coloring",
+      "game_id": 144,
+      "observed_byte": 20,
+      "observed_hex": "0x14",
+      "observed_source": [
+        "Drab_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#333300",
+      "linear_rgb": [
+        0.2,
+        0.2,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Drab"
+      ]
+    },
+    {
+      "name": "Olive Coloring",
+      "game_id": 145,
+      "observed_byte": 21,
+      "observed_hex": "0x15",
+      "observed_source": [
+        "Olive_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#666600",
+      "linear_rgb": [
+        0.4,
+        0.4,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Olive"
+      ]
+    },
+    {
+      "name": "Citron Coloring",
+      "game_id": 146,
+      "observed_byte": 22,
+      "observed_hex": "0x16",
+      "observed_source": [
+        "Citron_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B2B300",
+      "linear_rgb": [
+        0.698,
+        0.702,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Citron"
+      ]
+    },
+    {
+      "name": "Yellow Coloring",
+      "game_id": 147,
+      "observed_byte": 23,
+      "observed_hex": "0x17",
+      "observed_source": [
+        "Yellow_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFFF00",
+      "linear_rgb": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Yellow"
+      ]
+    },
+    {
+      "name": "Canary Coloring",
+      "game_id": 148,
+      "observed_byte": 24,
+      "observed_hex": "0x18",
+      "observed_source": [
+        "Canary_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFFF73",
+      "linear_rgb": [
+        1.0,
+        1.0,
+        0.451
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Canary"
+      ]
+    },
+    {
+      "name": "Buttermilk Coloring",
+      "game_id": 149,
+      "observed_byte": 25,
+      "observed_hex": "0x19",
+      "observed_source": [
+        "Buttermilk_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFFFBF",
+      "linear_rgb": [
+        1.0,
+        1.0,
+        0.749
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Buttermilk"
+      ]
+    },
+    {
+      "name": "Khaki Coloring",
+      "game_id": 150,
+      "observed_byte": 26,
+      "observed_hex": "0x1A",
+      "observed_source": [
+        "Khaki_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#D9D98D",
+      "linear_rgb": [
+        0.851,
+        0.851,
+        0.553
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Khaki"
+      ]
+    },
+    {
+      "name": "Mold Coloring",
+      "game_id": 151,
+      "observed_byte": 27,
+      "observed_hex": "0x1B",
+      "observed_source": [
+        "Mold_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#A6A653",
+      "linear_rgb": [
+        0.651,
+        0.651,
+        0.325
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Mold"
+      ]
+    },
+    {
+      "name": "Swamp Coloring",
+      "game_id": 152,
+      "observed_byte": 28,
+      "observed_hex": "0x1C",
+      "observed_source": [
+        "Swamp_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#193300",
+      "linear_rgb": [
+        0.098,
+        0.2,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Swamp"
+      ]
+    },
+    {
+      "name": "Avocado Coloring",
+      "game_id": 153,
+      "observed_byte": 29,
+      "observed_hex": "0x1D",
+      "observed_source": [
+        "Avocado_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#336600",
+      "linear_rgb": [
+        0.2,
+        0.4,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Avocado"
+      ]
+    },
+    {
+      "name": "Orc Coloring",
+      "game_id": 154,
+      "observed_byte": 30,
+      "observed_hex": "0x1E",
+      "observed_source": [
+        "Orc_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#59B300",
+      "linear_rgb": [
+        0.349,
+        0.702,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Orc"
+      ]
+    },
+    {
+      "name": "Chartreuse Coloring",
+      "game_id": 155,
+      "observed_byte": 31,
+      "observed_hex": "0x1F",
+      "observed_source": [
+        "Chartreuse_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#80FF00",
+      "linear_rgb": [
+        0.502,
+        1.0,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Chartreuse"
+      ]
+    },
+    {
+      "name": "Menthol Coloring",
+      "game_id": 156,
+      "observed_byte": 32,
+      "observed_hex": "0x20",
+      "observed_source": [
+        "Mentol_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B9FF73",
+      "linear_rgb": [
+        0.725,
+        1.0,
+        0.451
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Mentol"
+      ]
+    },
+    {
+      "name": "Nyanza Coloring",
+      "game_id": 157,
+      "observed_byte": 33,
+      "observed_hex": "0x21",
+      "observed_source": [
+        "Nyanza_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#DFFFBF",
+      "linear_rgb": [
+        0.875,
+        1.0,
+        0.749
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Nyanza"
+      ]
+    },
+    {
+      "name": "Putrescence Coloring",
+      "game_id": 158,
+      "observed_byte": 34,
+      "observed_hex": "0x22",
+      "observed_source": [
+        "Putrescence_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B3D98D",
+      "linear_rgb": [
+        0.702,
+        0.851,
+        0.553
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Putrescence"
+      ]
+    },
+    {
+      "name": "Filth Coloring",
+      "game_id": 159,
+      "observed_byte": 35,
+      "observed_hex": "0x23",
+      "observed_source": [
+        "Filth_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#7CA653",
+      "linear_rgb": [
+        0.486,
+        0.651,
+        0.325
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Filth"
+      ]
+    },
+    {
+      "name": "Nori Coloring",
+      "game_id": 160,
+      "observed_byte": 36,
+      "observed_hex": "0x24",
+      "observed_source": [
+        "Nori_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#003300",
+      "linear_rgb": [
+        0.0,
+        0.2,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Nori"
+      ]
+    },
+    {
+      "name": "Hunter Coloring",
+      "game_id": 161,
+      "observed_byte": 37,
+      "observed_hex": "0x25",
+      "observed_source": [
+        "Hunter_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#006600",
+      "linear_rgb": [
+        0.0,
+        0.4,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Hunter"
+      ]
+    },
+    {
+      "name": "Emerald Coloring",
+      "game_id": 162,
+      "observed_byte": 38,
+      "observed_hex": "0x26",
+      "observed_source": [
+        "Emerald_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#00B300",
+      "linear_rgb": [
+        0.0,
+        0.702,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Emerald"
+      ]
+    },
+    {
+      "name": "Mint Coloring",
+      "game_id": 164,
+      "observed_byte": 40,
+      "observed_hex": "0x28",
+      "observed_source": [
+        "Mint_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#73FF73",
+      "linear_rgb": [
+        0.451,
+        1.0,
+        0.451
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Mint"
+      ]
+    },
+    {
+      "name": "Pistachio Coloring",
+      "game_id": 165,
+      "observed_byte": 41,
+      "observed_hex": "0x29",
+      "observed_source": [
+        "Pistachio_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#BFFFBF",
+      "linear_rgb": [
+        0.749,
+        1.0,
+        0.749
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Pistachio"
+      ]
+    },
+    {
+      "name": "Celadon Coloring",
+      "game_id": 166,
+      "observed_byte": 42,
+      "observed_hex": "0x2A",
+      "observed_source": [
+        "Celadon_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#8DD98D",
+      "linear_rgb": [
+        0.553,
+        0.851,
+        0.553
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Celadon"
+      ]
+    },
+    {
+      "name": "Chateau Coloring",
+      "game_id": 167,
+      "observed_byte": 43,
+      "observed_hex": "0x2B",
+      "observed_source": [
+        "Chateau_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#53A653",
+      "linear_rgb": [
+        0.325,
+        0.651,
+        0.325
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Chateau"
+      ]
+    },
+    {
+      "name": "Jungle Coloring",
+      "game_id": 168,
+      "observed_byte": 44,
+      "observed_hex": "0x2C",
+      "observed_source": [
+        "Jungle_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#00331A",
+      "linear_rgb": [
+        0.0,
+        0.2,
+        0.102
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Jungle"
+      ]
+    },
+    {
+      "name": "Forest Coloring",
+      "game_id": 169,
+      "observed_byte": 45,
+      "observed_hex": "0x2D",
+      "observed_source": [
+        "Forest_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#006633",
+      "linear_rgb": [
+        0.0,
+        0.4,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Forest"
+      ]
+    },
+    {
+      "name": "Lagoon Coloring",
+      "game_id": 170,
+      "observed_byte": 46,
+      "observed_hex": "0x2E",
+      "observed_source": [
+        "Lagoon_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#00B359",
+      "linear_rgb": [
+        0.0,
+        0.702,
+        0.349
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Lagoon"
+      ]
+    },
+    {
+      "name": "Spring Coloring",
+      "game_id": 171,
+      "observed_byte": 47,
+      "observed_hex": "0x2F",
+      "observed_source": [
+        "Spring_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#00FF80",
+      "linear_rgb": [
+        0.0,
+        1.0,
+        0.502
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Spring"
+      ]
+    },
+    {
+      "name": "Aquamarine Coloring",
+      "game_id": 172,
+      "observed_byte": 48,
+      "observed_hex": "0x30",
+      "observed_source": [
+        "Aquamarine_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#73FFB9",
+      "linear_rgb": [
+        0.451,
+        1.0,
+        0.725
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Aquamarine"
+      ]
+    },
+    {
+      "name": "Seafoam Coloring",
+      "game_id": 173,
+      "observed_byte": 49,
+      "observed_hex": "0x31",
+      "observed_source": [
+        "Seafoam_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#BFFFDF",
+      "linear_rgb": [
+        0.749,
+        1.0,
+        0.875
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Seafoam"
+      ]
+    },
+    {
+      "name": "Turquoise Coloring",
+      "game_id": 174,
+      "observed_byte": 50,
+      "observed_hex": "0x32",
+      "observed_source": [
+        "Turquoise_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#8DD9B3",
+      "linear_rgb": [
+        0.553,
+        0.851,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Turquoise"
+      ]
+    },
+    {
+      "name": "Shamrock Coloring",
+      "game_id": 175,
+      "observed_byte": 51,
+      "observed_hex": "0x33",
+      "observed_source": [
+        "Shamrock_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#53A67C",
+      "linear_rgb": [
+        0.325,
+        0.651,
+        0.486
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Shamrock"
+      ]
+    },
+    {
+      "name": "Mariana Coloring",
+      "game_id": 176,
+      "observed_byte": 52,
+      "observed_hex": "0x34",
+      "observed_source": [
+        "Mariana_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#003333",
+      "linear_rgb": [
+        0.0,
+        0.2,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Mariana"
+      ]
+    },
+    {
+      "name": "Skobeloff Coloring",
+      "game_id": 177,
+      "observed_byte": 53,
+      "observed_hex": "0x35",
+      "observed_source": [
+        "Skobeloff_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#006666",
+      "linear_rgb": [
+        0.0,
+        0.4,
+        0.4
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Skobeloff"
+      ]
+    },
+    {
+      "name": "Teal Coloring",
+      "game_id": 178,
+      "observed_byte": 54,
+      "observed_hex": "0x36",
+      "observed_source": [
+        "Teal_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#00B3B3",
+      "linear_rgb": [
+        0.0,
+        0.702,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Teal"
+      ]
+    },
+    {
+      "name": "Cyan Coloring",
+      "game_id": 179,
+      "observed_byte": 55,
+      "observed_hex": "0x37",
+      "observed_source": [
+        "Cyan_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#00FFFF",
+      "linear_rgb": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Cyan"
+      ]
+    },
+    {
+      "name": "Electricity Coloring",
+      "game_id": 180,
+      "observed_byte": 56,
+      "observed_hex": "0x38",
+      "observed_source": [
+        "Electricity_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#73FFFF",
+      "linear_rgb": [
+        0.451,
+        1.0,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Electricity"
+      ]
+    },
+    {
+      "name": "Celeste Coloring",
+      "game_id": 181,
+      "observed_byte": 57,
+      "observed_hex": "0x39",
+      "observed_source": [
+        "Celeste_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#BFFFFF",
+      "linear_rgb": [
+        0.749,
+        1.0,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Celeste"
+      ]
+    },
+    {
+      "name": "Crystal Coloring",
+      "game_id": 182,
+      "observed_byte": 58,
+      "observed_hex": "0x3A",
+      "observed_source": [
+        "Crystal_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#8DD9D9",
+      "linear_rgb": [
+        0.553,
+        0.851,
+        0.851
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Ocean Coloring",
+      "game_id": 183,
+      "observed_byte": 59,
+      "observed_hex": "0x3B",
+      "observed_source": [
+        "Ocean_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#53A6A6",
+      "linear_rgb": [
+        0.325,
+        0.651,
+        0.651
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Ocean"
+      ]
+    },
+    {
+      "name": "Cetecean Coloring",
+      "game_id": 184,
+      "observed_byte": 60,
+      "observed_hex": "0x3C",
+      "observed_source": [
+        "Cetacean_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#001A33",
+      "linear_rgb": [
+        0.0,
+        0.102,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Cetacean"
+      ]
+    },
+    {
+      "name": "Prussian Coloring",
+      "game_id": 185,
+      "observed_byte": 61,
+      "observed_hex": "0x3D",
+      "observed_source": [
+        "Prussian_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#003366",
+      "linear_rgb": [
+        0.0,
+        0.2,
+        0.4
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Prussian"
+      ]
+    },
+    {
+      "name": "Sapphire Coloring",
+      "game_id": 186,
+      "observed_byte": 62,
+      "observed_hex": "0x3E",
+      "observed_source": [
+        "Saphire_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#0059B3",
+      "linear_rgb": [
+        0.0,
+        0.349,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Saphire"
+      ]
+    },
+    {
+      "name": "Azure Coloring",
+      "game_id": 187,
+      "observed_byte": 63,
+      "observed_hex": "0x3F",
+      "observed_source": [
+        "Azure_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#007FFF",
+      "linear_rgb": [
+        0.0,
+        0.498,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Azure"
+      ]
+    },
+    {
+      "name": "Babyblue Coloring",
+      "game_id": 188,
+      "observed_byte": 64,
+      "observed_hex": "0x40",
+      "observed_source": [
+        "Babyblue_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#73B9FF",
+      "linear_rgb": [
+        0.451,
+        0.725,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Babyblue"
+      ]
+    },
+    {
+      "name": "Cornflower Coloring",
+      "game_id": 189,
+      "observed_byte": 65,
+      "observed_hex": "0x41",
+      "observed_source": [
+        "Cornflower_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#BFDFFF",
+      "linear_rgb": [
+        0.749,
+        0.875,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Cornflower"
+      ]
+    },
+    {
+      "name": "Overcast Coloring",
+      "game_id": 190,
+      "observed_byte": 66,
+      "observed_hex": "0x42",
+      "observed_source": [
+        "Overcast_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#8CB2D9",
+      "linear_rgb": [
+        0.549,
+        0.698,
+        0.851
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Overcast"
+      ]
+    },
+    {
+      "name": "Moonstone Coloring",
+      "game_id": 191,
+      "observed_byte": 67,
+      "observed_hex": "0x43",
+      "observed_source": [
+        "Moonstone_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#537CA6",
+      "linear_rgb": [
+        0.325,
+        0.486,
+        0.651
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Moonstone"
+      ]
+    },
+    {
+      "name": "Midnight Coloring",
+      "game_id": 192,
+      "observed_byte": 68,
+      "observed_hex": "0x44",
+      "observed_source": [
+        "Midnight_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#000033",
+      "linear_rgb": [
+        0.0,
+        0.0,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Midnight"
+      ]
+    },
+    {
+      "name": "Navy Coloring",
+      "game_id": 193,
+      "observed_byte": 69,
+      "observed_hex": "0x45",
+      "observed_source": [
+        "Navy_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#000066",
+      "linear_rgb": [
+        0.0,
+        0.0,
+        0.4
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Navy"
+      ]
+    },
+    {
+      "name": "Cobalt Coloring",
+      "game_id": 194,
+      "observed_byte": 70,
+      "observed_hex": "0x46",
+      "observed_source": [
+        "Cobalt_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#0000B3",
+      "linear_rgb": [
+        0.0,
+        0.0,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Cobalt"
+      ]
+    },
+    {
+      "name": "Denim Coloring",
+      "game_id": 196,
+      "observed_byte": 72,
+      "observed_hex": "0x48",
+      "observed_source": [
+        "Denim_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#7373FF",
+      "linear_rgb": [
+        0.451,
+        0.451,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Denim"
+      ]
+    },
+    {
+      "name": "Ice Coloring",
+      "game_id": 197,
+      "observed_byte": 73,
+      "observed_hex": "0x49",
+      "observed_source": [
+        "Ice_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#BFBFFF",
+      "linear_rgb": [
+        0.749,
+        0.749,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Ice"
+      ]
+    },
+    {
+      "name": "Frost Coloring",
+      "game_id": 198,
+      "observed_byte": 74,
+      "observed_hex": "0x4A",
+      "observed_source": [
+        "Frost_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#8C8CD9",
+      "linear_rgb": [
+        0.549,
+        0.549,
+        0.851
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Frost"
+      ]
+    },
+    {
+      "name": "Deepfreeze Coloring",
+      "game_id": 199,
+      "observed_byte": 75,
+      "observed_hex": "0x4B",
+      "observed_source": [
+        "Deepfreeze_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#5353A6",
+      "linear_rgb": [
+        0.325,
+        0.325,
+        0.651
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Deepfreeze"
+      ]
+    },
+    {
+      "name": "Twilight Coloring",
+      "game_id": 200,
+      "observed_byte": 76,
+      "observed_hex": "0x4C",
+      "observed_source": [
+        "Twilight_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#190033",
+      "linear_rgb": [
+        0.098,
+        0.0,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Twilight"
+      ]
+    },
+    {
+      "name": "Eminence Coloring",
+      "game_id": 201,
+      "observed_byte": 77,
+      "observed_hex": "0x4D",
+      "observed_source": [
+        "Eminence_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#330066",
+      "linear_rgb": [
+        0.2,
+        0.0,
+        0.4
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Eminence"
+      ]
+    },
+    {
+      "name": "Indigo Coloring",
+      "game_id": 202,
+      "observed_byte": 78,
+      "observed_hex": "0x4E",
+      "observed_source": [
+        "Indigo_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#5900B3",
+      "linear_rgb": [
+        0.349,
+        0.0,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Indigo"
+      ]
+    },
+    {
+      "name": "Violet Coloring",
+      "game_id": 203,
+      "observed_byte": 79,
+      "observed_hex": "0x4F",
+      "observed_source": [
+        "Violet_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#8000FF",
+      "linear_rgb": [
+        0.502,
+        0.0,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Violet"
+      ]
+    },
+    {
+      "name": "Lilac Coloring",
+      "game_id": 204,
+      "observed_byte": 80,
+      "observed_hex": "0x50",
+      "observed_source": [
+        "Lilac_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B973FF",
+      "linear_rgb": [
+        0.725,
+        0.451,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Lilac"
+      ]
+    },
+    {
+      "name": "Lavender Coloring",
+      "game_id": 205,
+      "observed_byte": 81,
+      "observed_hex": "0x51",
+      "observed_source": [
+        "Lavander_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#DFBFFF",
+      "linear_rgb": [
+        0.875,
+        0.749,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Lavander"
+      ]
+    },
+    {
+      "name": "Mauve Coloring",
+      "game_id": 206,
+      "observed_byte": 82,
+      "observed_hex": "0x52",
+      "observed_source": [
+        "Mauve_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B38DD9",
+      "linear_rgb": [
+        0.702,
+        0.553,
+        0.851
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Mauve"
+      ]
+    },
+    {
+      "name": "Royalty Coloring",
+      "game_id": 207,
+      "observed_byte": 83,
+      "observed_hex": "0x53",
+      "observed_source": [
+        "Royalty_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#7C53A6",
+      "linear_rgb": [
+        0.486,
+        0.325,
+        0.651
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Royalty"
+      ]
+    },
+    {
+      "name": "Eggplant Coloring",
+      "game_id": 208,
+      "observed_byte": 84,
+      "observed_hex": "0x54",
+      "observed_source": [
+        "Eggplant_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#330033",
+      "linear_rgb": [
+        0.2,
+        0.0,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Eggplant"
+      ]
+    },
+    {
+      "name": "Plum Coloring",
+      "game_id": 209,
+      "observed_byte": 85,
+      "observed_hex": "0x55",
+      "observed_source": [
+        "Plum_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#660066",
+      "linear_rgb": [
+        0.4,
+        0.0,
+        0.4
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Plum"
+      ]
+    },
+    {
+      "name": "Purple Coloring",
+      "game_id": 210,
+      "observed_byte": 86,
+      "observed_hex": "0x56",
+      "observed_source": [
+        "Purple_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B200B3",
+      "linear_rgb": [
+        0.698,
+        0.0,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Purple"
+      ]
+    },
+    {
+      "name": "Magenta Coloring",
+      "game_id": 211,
+      "observed_byte": 87,
+      "observed_hex": "0x57",
+      "observed_source": [
+        "Magenta_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FF00FF",
+      "linear_rgb": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Magenta"
+      ]
+    },
+    {
+      "name": "Pink Coloring",
+      "game_id": 212,
+      "observed_byte": 88,
+      "observed_hex": "0x58",
+      "observed_source": [
+        "Pink_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FF73FF",
+      "linear_rgb": [
+        1.0,
+        0.451,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Pink"
+      ]
+    },
+    {
+      "name": "Cottoncandy Coloring",
+      "game_id": 213,
+      "observed_byte": 89,
+      "observed_hex": "0x59",
+      "observed_source": [
+        "CottonCandy_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFBFFF",
+      "linear_rgb": [
+        1.0,
+        0.749,
+        1.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "CottonCandy"
+      ]
+    },
+    {
+      "name": "Orchid Coloring",
+      "game_id": 214,
+      "observed_byte": 90,
+      "observed_hex": "0x5A",
+      "observed_source": [
+        "Orchid_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#D98DD9",
+      "linear_rgb": [
+        0.851,
+        0.553,
+        0.851
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Orchid"
+      ]
+    },
+    {
+      "name": "Bruise Coloring",
+      "game_id": 215,
+      "observed_byte": 91,
+      "observed_hex": "0x5B",
+      "observed_source": [
+        "Bruise_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#A653A6",
+      "linear_rgb": [
+        0.651,
+        0.325,
+        0.651
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Bruise"
+      ]
+    },
+    {
+      "name": "Raisin Coloring",
+      "game_id": 216,
+      "observed_byte": 92,
+      "observed_hex": "0x5C",
+      "observed_source": [
+        "Raisin_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#330019",
+      "linear_rgb": [
+        0.2,
+        0.0,
+        0.098
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Raisin"
+      ]
+    },
+    {
+      "name": "Tyrian Coloring",
+      "game_id": 217,
+      "observed_byte": 93,
+      "observed_hex": "0x5D",
+      "observed_source": [
+        "Tyrian_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#660033",
+      "linear_rgb": [
+        0.4,
+        0.0,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Tyrian"
+      ]
+    },
+    {
+      "name": "Lust Coloring",
+      "game_id": 218,
+      "observed_byte": 94,
+      "observed_hex": "0x5E",
+      "observed_source": [
+        "Lust_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B30059",
+      "linear_rgb": [
+        0.702,
+        0.0,
+        0.349
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Lust"
+      ]
+    },
+    {
+      "name": "Fuschia Coloring",
+      "game_id": 219,
+      "observed_byte": 95,
+      "observed_hex": "0x5F",
+      "observed_source": [
+        "Fuschia_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FF007F",
+      "linear_rgb": [
+        1.0,
+        0.0,
+        0.498
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Fuschia"
+      ]
+    },
+    {
+      "name": "Flamingo Coloring",
+      "game_id": 220,
+      "observed_byte": 96,
+      "observed_hex": "0x60",
+      "observed_source": [
+        "Flamingo_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FF73B9",
+      "linear_rgb": [
+        1.0,
+        0.451,
+        0.725
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Flamingo"
+      ]
+    },
+    {
+      "name": "Valentine Coloring",
+      "game_id": 221,
+      "observed_byte": 97,
+      "observed_hex": "0x61",
+      "observed_source": [
+        "Valentine_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFBFDF",
+      "linear_rgb": [
+        1.0,
+        0.749,
+        0.875
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Valentine"
+      ]
+    },
+    {
+      "name": "Kobi Coloring",
+      "game_id": 222,
+      "observed_byte": 98,
+      "observed_hex": "0x62",
+      "observed_source": [
+        "Kobi_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#D98DB3",
+      "linear_rgb": [
+        0.851,
+        0.553,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Kobi"
+      ]
+    },
+    {
+      "name": "Rouge Coloring",
+      "game_id": 223,
+      "observed_byte": 99,
+      "observed_hex": "0x63",
+      "observed_source": [
+        "Rouge_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#A6537C",
+      "linear_rgb": [
+        0.651,
+        0.325,
+        0.486
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Rouge"
+      ]
+    },
+    {
+      "name": "Black Coloring",
+      "game_id": 224,
+      "observed_byte": 100,
+      "observed_hex": "0x64",
+      "observed_source": [
+        "Black_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#191919",
+      "linear_rgb": [
+        0.098,
+        0.098,
+        0.098
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Black"
+      ]
+    },
+    {
+      "name": "Shadow Coloring",
+      "game_id": 225,
+      "observed_byte": 101,
+      "observed_hex": "0x65",
+      "observed_source": [
+        "Shadow_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#333333",
+      "linear_rgb": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Shadow"
+      ]
+    },
+    {
+      "name": "Charcoal Coloring",
+      "game_id": 226,
+      "observed_byte": 102,
+      "observed_hex": "0x66",
+      "observed_source": [
+        "Charcoal_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#4D4D4D",
+      "linear_rgb": [
+        0.302,
+        0.302,
+        0.302
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Charcoal"
+      ]
+    },
+    {
+      "name": "Gunmetal Coloring",
+      "game_id": 227,
+      "observed_byte": 103,
+      "observed_hex": "0x67",
+      "observed_source": [
+        "Gunmetal_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#666666",
+      "linear_rgb": [
+        0.4,
+        0.4,
+        0.4
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Gunmetal"
+      ]
+    },
+    {
+      "name": "Slate Coloring",
+      "game_id": 228,
+      "observed_byte": 104,
+      "observed_hex": "0x68",
+      "observed_source": [
+        "Slate_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#808080",
+      "linear_rgb": [
+        0.502,
+        0.502,
+        0.502
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Slate"
+      ]
+    },
+    {
+      "name": "Steel Coloring",
+      "game_id": 229,
+      "observed_byte": 105,
+      "observed_hex": "0x69",
+      "observed_source": [
+        "Steel_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#999999",
+      "linear_rgb": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Steel"
+      ]
+    },
+    {
+      "name": "Grey Coloring",
+      "game_id": 230,
+      "observed_byte": 106,
+      "observed_hex": "0x6A",
+      "observed_source": [
+        "Grey_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B3B3B3",
+      "linear_rgb": [
+        0.702,
+        0.702,
+        0.702
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Grey"
+      ]
+    },
+    {
+      "name": "Silver Coloring",
+      "game_id": 231,
+      "observed_byte": 107,
+      "observed_hex": "0x6B",
+      "observed_source": [
+        "Silver_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#CCCCCC",
+      "linear_rgb": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Silver"
+      ]
+    },
+    {
+      "name": "Wisp Coloring",
+      "game_id": 232,
+      "observed_byte": 108,
+      "observed_hex": "0x6C",
+      "observed_source": [
+        "Wisp_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#E6E6E6",
+      "linear_rgb": [
+        0.902,
+        0.902,
+        0.902
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Wisp"
+      ]
+    },
+    {
+      "name": "Mud Coloring",
+      "game_id": 234,
+      "observed_byte": 110,
+      "observed_hex": "0x6E",
+      "observed_source": [
+        "Mud_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#403522",
+      "linear_rgb": [
+        0.251,
+        0.208,
+        0.133
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Mud"
+      ]
+    },
+    {
+      "name": "Bark Coloring",
+      "game_id": 235,
+      "observed_byte": 111,
+      "observed_hex": "0x6F",
+      "observed_source": [
+        "Bark_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#594724",
+      "linear_rgb": [
+        0.349,
+        0.278,
+        0.141
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Bark"
+      ]
+    },
+    {
+      "name": "Brown Coloring",
+      "game_id": 236,
+      "observed_byte": 112,
+      "observed_hex": "0x70",
+      "observed_source": [
+        "Brown_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#80642D",
+      "linear_rgb": [
+        0.502,
+        0.392,
+        0.176
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Brown"
+      ]
+    },
+    {
+      "name": "Leather Coloring",
+      "game_id": 237,
+      "observed_byte": 113,
+      "observed_hex": "0x71",
+      "observed_source": [
+        "Leather_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#99823D",
+      "linear_rgb": [
+        0.6,
+        0.51,
+        0.239
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Leather"
+      ]
+    },
+    {
+      "name": "Camel Coloring",
+      "game_id": 238,
+      "observed_byte": 114,
+      "observed_hex": "0x72",
+      "observed_source": [
+        "Camel_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B39C59",
+      "linear_rgb": [
+        0.702,
+        0.612,
+        0.349
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Camel"
+      ]
+    },
+    {
+      "name": "Tan Coloring",
+      "game_id": 239,
+      "observed_byte": 115,
+      "observed_hex": "0x73",
+      "observed_source": [
+        "Tan_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#CCB266",
+      "linear_rgb": [
+        0.8,
+        0.698,
+        0.4
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Tan"
+      ]
+    },
+    {
+      "name": "Sand Coloring",
+      "game_id": 240,
+      "observed_byte": 116,
+      "observed_hex": "0x74",
+      "observed_source": [
+        "Sand_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#E6C973",
+      "linear_rgb": [
+        0.902,
+        0.788,
+        0.451
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Sand"
+      ]
+    },
+    {
+      "name": "Parchment Coloring",
+      "game_id": 241,
+      "observed_byte": 117,
+      "observed_hex": "0x75",
+      "observed_source": [
+        "Parchment_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFEFBF",
+      "linear_rgb": [
+        1.0,
+        0.937,
+        0.749
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Parchment"
+      ]
+    },
+    {
+      "name": "Cream Coloring",
+      "game_id": 242,
+      "observed_byte": 118,
+      "observed_hex": "0x76",
+      "observed_source": [
+        "Cream_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#F5F5DC",
+      "linear_rgb": [
+        0.961,
+        0.961,
+        0.863
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Cream"
+      ]
+    },
+    {
+      "name": "Brick Coloring",
+      "game_id": 243,
+      "observed_byte": 119,
+      "observed_hex": "0x77",
+      "observed_source": [
+        "Brick_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#994326",
+      "linear_rgb": [
+        0.6,
+        0.263,
+        0.149
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Brick"
+      ]
+    },
+    {
+      "name": "Tangerine Coloring",
+      "game_id": 244,
+      "observed_byte": 120,
+      "observed_hex": "0x78",
+      "observed_source": [
+        "Tangerine_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFA424",
+      "linear_rgb": [
+        1.0,
+        0.643,
+        0.141
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Tangerine"
+      ]
+    },
+    {
+      "name": "Gold Coloring",
+      "game_id": 245,
+      "observed_byte": 121,
+      "observed_hex": "0x79",
+      "observed_source": [
+        "Gold_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFC000",
+      "linear_rgb": [
+        1.0,
+        0.753,
+        0.0
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Gold"
+      ]
+    },
+    {
+      "name": "Mustard Coloring",
+      "game_id": 246,
+      "observed_byte": 122,
+      "observed_hex": "0x7A",
+      "observed_source": [
+        "Mustard_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#F0F032",
+      "linear_rgb": [
+        0.941,
+        0.941,
+        0.196
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Mustard"
+      ]
+    },
+    {
+      "name": "Craggy-Dew Coloring",
+      "game_id": 247,
+      "observed_byte": 123,
+      "observed_hex": "0x7B",
+      "observed_source": [
+        "Craggy-Dew_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#B3E912",
+      "linear_rgb": [
+        0.702,
+        0.914,
+        0.071
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Craggy-Dew"
+      ]
+    },
+    {
+      "name": "Grass Coloring",
+      "game_id": 248,
+      "observed_byte": 124,
+      "observed_hex": "0x7C",
+      "observed_source": [
+        "Grass_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#227330",
+      "linear_rgb": [
+        0.133,
+        0.451,
+        0.188
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Grass"
+      ]
+    },
+    {
+      "name": "Stream Coloring",
+      "game_id": 249,
+      "observed_byte": 125,
+      "observed_hex": "0x7D",
+      "observed_source": [
+        "Stream_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#2AC6B6",
+      "linear_rgb": [
+        0.165,
+        0.776,
+        0.714
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Stream"
+      ]
+    },
+    {
+      "name": "Marine Coloring",
+      "game_id": 250,
+      "observed_byte": 126,
+      "observed_hex": "0x7E",
+      "observed_source": [
+        "Marine_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#007189",
+      "linear_rgb": [
+        0.0,
+        0.443,
+        0.537
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Marine"
+      ]
+    },
+    {
+      "name": "Haze Coloring",
+      "game_id": 251,
+      "observed_byte": 127,
+      "observed_hex": "0x7F",
+      "observed_source": [
+        "Haze_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#535872",
+      "linear_rgb": [
+        0.325,
+        0.345,
+        0.447
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Haze"
+      ]
+    },
+    {
+      "name": "Dusk Coloring",
+      "game_id": 252,
+      "observed_byte": 128,
+      "observed_hex": "0x80",
+      "observed_source": [
+        "Dusk_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#8F4EA5",
+      "linear_rgb": [
+        0.561,
+        0.306,
+        0.647
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Dusk"
+      ]
+    },
+    {
+      "name": "Thistle Coloring",
+      "game_id": 253,
+      "observed_byte": 129,
+      "observed_hex": "0x81",
+      "observed_source": [
+        "Thistle_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#E6C3DD",
+      "linear_rgb": [
+        0.902,
+        0.765,
+        0.867
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Thistle"
+      ]
+    },
+    {
+      "name": "Bubblegum Coloring",
+      "game_id": 254,
+      "observed_byte": 130,
+      "observed_hex": "0x82",
+      "observed_source": [
+        "Bubblegum_Sign_PaintingCanvas_C.pnt"
+      ],
+      "hex_srgb": "#FFBFCF",
+      "linear_rgb": [
+        1.0,
+        0.749,
+        0.812
+      ],
+      "group": "base",
+      "is_paintable": true,
+      "aliases": [
+        "Bubblegum"
+      ]
+    }
+  ]
+}

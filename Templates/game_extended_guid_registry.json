@@ -1,0 +1,1306 @@
+{
+  "dynamic_codes": {
+    "10": {
+      "sample_file": "Game/10_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "10",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 81,
+      "body_len": 148194,
+      "raster_len": 148170,
+      "footer24_hex": "00000000000000000000000000000000cdf2a53f27ade040",
+      "candidates_128_968": [
+        [
+          165,
+          898
+        ],
+        [
+          330,
+          449
+        ]
+      ]
+    },
+    "1": {
+      "sample_file": "Game/1_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "1",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 80,
+      "body_len": 104122,
+      "raster_len": 104098,
+      "footer24_hex": "000000000000000000000000000000008744b240dc50923f",
+      "candidates_128_968": [
+        [
+          146,
+          713
+        ]
+      ]
+    },
+    "2": {
+      "sample_file": "Game/2_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "2",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 80,
+      "body_len": 148194,
+      "raster_len": 148170,
+      "footer24_hex": "00000000000000000000000000000000cdf2a53f27ade040",
+      "candidates_128_968": [
+        [
+          165,
+          898
+        ],
+        [
+          330,
+          449
+        ]
+      ]
+    },
+    "3": {
+      "sample_file": "Game/3_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "3",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 80,
+      "body_len": 195128,
+      "raster_len": 195104,
+      "footer24_hex": "000000000000000000000000000000005a2d364078258640",
+      "candidates_128_968": [
+        [
+          208,
+          938
+        ],
+        [
+          224,
+          871
+        ],
+        [
+          268,
+          728
+        ],
+        [
+          364,
+          536
+        ],
+        [
+          416,
+          469
+        ]
+      ]
+    },
+    "4": {
+      "sample_file": "Game/4_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "4",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 80,
+      "body_len": 275208,
+      "raster_len": 275184,
+      "footer24_hex": "00000000000000000000000000000000d72cbd40a8353640",
+      "candidates_128_968": [
+        [
+          294,
+          936
+        ],
+        [
+          312,
+          882
+        ],
+        [
+          336,
+          819
+        ],
+        [
+          351,
+          784
+        ],
+        [
+          364,
+          756
+        ],
+        [
+          378,
+          728
+        ],
+        [
+          392,
+          702
+        ],
+        [
+          432,
+          637
+        ],
+        [
+          441,
+          624
+        ],
+        [
+          468,
+          588
+        ],
+        [
+          504,
+          546
+        ]
+      ]
+    },
+    "5": {
+      "sample_file": "Game/5_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "5",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 80,
+      "body_len": 128193,
+      "raster_len": 128169,
+      "footer24_hex": "00000000000000000000000000000000bacb534025a31740",
+      "candidates_128_968": [
+        [
+          141,
+          909
+        ],
+        [
+          303,
+          423
+        ]
+      ]
+    },
+    "H01": {
+      "sample_file": "Game/H01_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H01",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 21528,
+      "raster_len": 21504,
+      "footer24_hex": "64646464646464646464646464646400f434a83fd951803f",
+      "candidates_128_968": [
+        [
+          128,
+          168
+        ]
+      ]
+    },
+    "H02": {
+      "sample_file": "Game/H02_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H02",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 30912,
+      "raster_len": 30888,
+      "footer24_hex": "646464646464646464646464646464000435ea3fc31b843f",
+      "candidates_128_968": [
+        [
+          132,
+          234
+        ],
+        [
+          143,
+          216
+        ],
+        [
+          156,
+          198
+        ]
+      ]
+    },
+    "H03": {
+      "sample_file": "Game/H03_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H03",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 54494,
+      "raster_len": 54470,
+      "footer24_hex": "64646464646464646464640000000000a8d0514094bb823f",
+      "candidates_128_968": [
+        [
+          130,
+          419
+        ]
+      ]
+    },
+    "H04": {
+      "sample_file": "Game/H04_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H04",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 73880,
+      "raster_len": 73856,
+      "footer24_hex": "64646464646464646464646464000000f5629040b736803f",
+      "candidates_128_968": [
+        [
+          128,
+          577
+        ]
+      ]
+    },
+    "H05": {
+      "sample_file": "Game/H05_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H05",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 90520,
+      "raster_len": 90496,
+      "footer24_hex": "6464646464646464646464646464000014c9b0409b8e803f",
+      "candidates_128_968": [
+        [
+          128,
+          707
+        ],
+        [
+          202,
+          448
+        ],
+        [
+          224,
+          404
+        ]
+      ]
+    },
+    "H06": {
+      "sample_file": "Game/H06_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H06",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 105880,
+      "raster_len": 105856,
+      "footer24_hex": "64646464646464646464646464000000e3c5ce403395803f",
+      "candidates_128_968": [
+        [
+          128,
+          827
+        ]
+      ]
+    },
+    "H07": {
+      "sample_file": "Game/H07_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H07",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 125864,
+      "raster_len": 125840,
+      "footer24_hex": "646464646464646464000000000000000806f240390b823f",
+      "candidates_128_968": [
+        [
+          130,
+          968
+        ],
+        [
+          143,
+          880
+        ],
+        [
+          176,
+          715
+        ],
+        [
+          208,
+          605
+        ],
+        [
+          220,
+          572
+        ],
+        [
+          242,
+          520
+        ],
+        [
+          260,
+          484
+        ],
+        [
+          286,
+          440
+        ]
+      ]
+    },
+    "H08": {
+      "sample_file": "Game/H08_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H08",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 252672,
+      "raster_len": 252648,
+      "footer24_hex": "646464646400000000000000000000009046ef40e55e0440",
+      "candidates_128_968": [
+        [
+          261,
+          968
+        ],
+        [
+          264,
+          957
+        ],
+        [
+          319,
+          792
+        ],
+        [
+          348,
+          726
+        ],
+        [
+          363,
+          696
+        ],
+        [
+          396,
+          638
+        ],
+        [
+          484,
+          522
+        ]
+      ]
+    },
+    "HxV": {
+      "sample_file": "Game/HxV_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "HxV",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 519012,
+      "raster_len": 518988,
+      "footer24_hex": "00000000000000000000000000000000bd6ab140181ab740",
+      "candidates_128_968": [
+        [
+          709,
+          732
+        ]
+      ]
+    },
+    "S01": {
+      "sample_file": "Game/S01_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "S01",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 519132,
+      "raster_len": 519108,
+      "footer24_hex": "646464646400000000000000000000001553b340ab3bb540",
+      "candidates_128_968": [
+        [
+          543,
+          956
+        ],
+        [
+          717,
+          724
+        ]
+      ]
+    },
+    "S02": {
+      "sample_file": "Game/S02_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "S02",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 265734,
+      "raster_len": 265710,
+      "footer24_hex": "646464646464646400000000000000004a5282404b4d7f40",
+      "candidates_128_968": [
+        [
+          510,
+          521
+        ]
+      ]
+    },
+    "S03": {
+      "sample_file": "Game/S03_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "S03",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 66073,
+      "raster_len": 66049,
+      "footer24_hex": "64646464646464646464646464646400808d004023ed0040",
+      "candidates_128_968": [
+        [
+          257,
+          257
+        ]
+      ]
+    },
+    "V01": {
+      "sample_file": "Game/V01_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V01",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 22425,
+      "raster_len": 22401,
+      "footer24_hex": "64646464646464646464646464646400d786833f136bab3f",
+      "candidates_128_968": [
+        [
+          131,
+          171
+        ]
+      ]
+    },
+    "V02": {
+      "sample_file": "Game/V02_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V02",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 36660,
+      "raster_len": 36636,
+      "footer24_hex": "6464646464646464646464646464000072b6813f2e330e40",
+      "candidates_128_968": [
+        [
+          129,
+          284
+        ],
+        [
+          142,
+          258
+        ],
+        [
+          172,
+          213
+        ]
+      ]
+    },
+    "V03": {
+      "sample_file": "Game/V03_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V03",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 52760,
+      "raster_len": 52736,
+      "footer24_hex": "646464646464646464646464646464000000803fcc0d4e40",
+      "candidates_128_968": [
+        [
+          128,
+          412
+        ],
+        [
+          206,
+          256
+        ]
+      ]
+    },
+    "V04": {
+      "sample_file": "Game/V04_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V04",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 72174,
+      "raster_len": 72150,
+      "footer24_hex": "6464646464646464646464646464000024a8823f1cdb8a40",
+      "candidates_128_968": [
+        [
+          130,
+          555
+        ],
+        [
+          150,
+          481
+        ],
+        [
+          185,
+          390
+        ],
+        [
+          195,
+          370
+        ],
+        [
+          222,
+          325
+        ]
+      ]
+    },
+    "V05": {
+      "sample_file": "Game/V05_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V05",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 89334,
+      "raster_len": 89310,
+      "footer24_hex": "646464646464646464646464646400006400823f01d9ab40",
+      "candidates_128_968": [
+        [
+          130,
+          687
+        ],
+        [
+          195,
+          458
+        ],
+        [
+          229,
+          390
+        ]
+      ]
+    },
+    "V06": {
+      "sample_file": "Game/V06_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V06",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 107800,
+      "raster_len": 107776,
+      "footer24_hex": "646464646464646464646464646400000000803f719cd240",
+      "candidates_128_968": [
+        [
+          128,
+          842
+        ],
+        [
+          256,
+          421
+        ]
+      ]
+    },
+    "V07": {
+      "sample_file": "Game/V07_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V07",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 123928,
+      "raster_len": 123904,
+      "footer24_hex": "000000000000000000000064646400000100803f7e12f240",
+      "candidates_128_968": [
+        [
+          128,
+          968
+        ],
+        [
+          176,
+          704
+        ],
+        [
+          242,
+          512
+        ],
+        [
+          256,
+          484
+        ],
+        [
+          352,
+          352
+        ]
+      ]
+    },
+    "V08": {
+      "sample_file": "Game/V08_StructureBP_Canvas_Dynamic_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "V08",
+      "class_name": "StructureBP_Canvas_Dynamic_C",
+      "header_len": 82,
+      "body_len": 225859,
+      "raster_len": 225835,
+      "footer24_hex": "64646464646464646464646400000000b36aeb3f0465f040",
+      "candidates_128_968": [
+        [
+          235,
+          961
+        ]
+      ]
+    }
+  },
+  "drawing_sheet_codes": {
+    "10": {
+      "sample_file": "Game/10_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "10",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 79,
+      "body_len": 97044,
+      "raster_len": 97020,
+      "footer24_hex": "00000000000000000000000000000000675dfc3fb4b24040",
+      "candidates_128_968": [
+        [
+          132,
+          735
+        ],
+        [
+          140,
+          693
+        ],
+        [
+          147,
+          660
+        ],
+        [
+          154,
+          630
+        ],
+        [
+          165,
+          588
+        ],
+        [
+          180,
+          539
+        ],
+        [
+          196,
+          495
+        ],
+        [
+          198,
+          490
+        ],
+        [
+          210,
+          462
+        ],
+        [
+          220,
+          441
+        ],
+        [
+          231,
+          420
+        ],
+        [
+          245,
+          396
+        ],
+        [
+          252,
+          385
+        ],
+        [
+          294,
+          330
+        ],
+        [
+          308,
+          315
+        ]
+      ]
+    },
+    "11": {
+      "sample_file": "Game/11_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "11",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 79,
+      "body_len": 161346,
+      "raster_len": 161322,
+      "footer24_hex": "000000000000000000000000000000007a342140c3cf7a40",
+      "candidates_128_968": [
+        [
+          167,
+          966
+        ],
+        [
+          322,
+          501
+        ],
+        [
+          334,
+          483
+        ]
+      ]
+    },
+    "1": {
+      "sample_file": "Game/1_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "1",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 140626,
+      "raster_len": 140602,
+      "footer24_hex": "00000000000000000000000000000000ea6ee440d25b9a3f",
+      "candidates_128_968": [
+        [
+          154,
+          913
+        ],
+        [
+          166,
+          847
+        ],
+        [
+          242,
+          581
+        ]
+      ]
+    },
+    "2": {
+      "sample_file": "Game/2_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "2",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 121272,
+      "raster_len": 121248,
+      "footer24_hex": "000000000000000000000000000000001591903f8aaed240",
+      "candidates_128_968": [
+        [
+          144,
+          842
+        ],
+        [
+          288,
+          421
+        ]
+      ]
+    },
+    "3": {
+      "sample_file": "Game/3_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "3",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 78432,
+      "raster_len": 78408,
+      "footer24_hex": "00000000000000000000000000000000776422408febf23f",
+      "candidates_128_968": [
+        [
+          132,
+          594
+        ],
+        [
+          162,
+          484
+        ],
+        [
+          198,
+          396
+        ],
+        [
+          216,
+          363
+        ],
+        [
+          242,
+          324
+        ],
+        [
+          264,
+          297
+        ]
+      ]
+    },
+    "4": {
+      "sample_file": "Game/4_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "4",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 148628,
+      "raster_len": 148604,
+      "footer24_hex": "0000000000000000000000000000000011fe3f40cb674240",
+      "candidates_128_968": [
+        [
+          194,
+          766
+        ],
+        [
+          383,
+          388
+        ]
+      ]
+    },
+    "5": {
+      "sample_file": "Game/5_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "5",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 316032,
+      "raster_len": 316008,
+      "footer24_hex": "000000000000000000000000000000001905d1400d203d40",
+      "candidates_128_968": [
+        [
+          342,
+          924
+        ],
+        [
+          378,
+          836
+        ],
+        [
+          396,
+          798
+        ],
+        [
+          399,
+          792
+        ],
+        [
+          418,
+          756
+        ],
+        [
+          456,
+          693
+        ],
+        [
+          462,
+          684
+        ],
+        [
+          504,
+          627
+        ],
+        [
+          513,
+          616
+        ],
+        [
+          532,
+          594
+        ]
+      ]
+    },
+    "6": {
+      "sample_file": "Game/6_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "6",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 161346,
+      "raster_len": 161322,
+      "footer24_hex": "000000000000000000000000000000007a342140c3cf7a40",
+      "candidates_128_968": [
+        [
+          167,
+          966
+        ],
+        [
+          322,
+          501
+        ],
+        [
+          334,
+          483
+        ]
+      ]
+    },
+    "8": {
+      "sample_file": "Game/8_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "8",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 316032,
+      "raster_len": 316008,
+      "footer24_hex": "000000000000000000000000000000001905d1400d203d40",
+      "candidates_128_968": [
+        [
+          342,
+          924
+        ],
+        [
+          378,
+          836
+        ],
+        [
+          396,
+          798
+        ],
+        [
+          399,
+          792
+        ],
+        [
+          418,
+          756
+        ],
+        [
+          456,
+          693
+        ],
+        [
+          462,
+          684
+        ],
+        [
+          504,
+          627
+        ],
+        [
+          513,
+          616
+        ],
+        [
+          532,
+          594
+        ]
+      ]
+    },
+    "9": {
+      "sample_file": "Game/9_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "9",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 133257,
+      "raster_len": 133233,
+      "footer24_hex": "00000000000000000000000000000000bfaa7940a6fb0540",
+      "candidates_128_968": [
+        [
+          267,
+          499
+        ]
+      ]
+    },
+    "A": {
+      "sample_file": "Game/A_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "A",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 121272,
+      "raster_len": 121248,
+      "footer24_hex": "000000000000000000000000000000001591903f8aaed240",
+      "candidates_128_968": [
+        [
+          144,
+          842
+        ],
+        [
+          288,
+          421
+        ]
+      ]
+    },
+    "B": {
+      "sample_file": "Game/B_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "B",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 140626,
+      "raster_len": 140602,
+      "footer24_hex": "00000000000000000000000000000000ea6ee440d25b9a3f",
+      "candidates_128_968": [
+        [
+          154,
+          913
+        ],
+        [
+          166,
+          847
+        ],
+        [
+          242,
+          581
+        ]
+      ]
+    },
+    "C": {
+      "sample_file": "Game/C_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "C",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 507570,
+      "raster_len": 507546,
+      "footer24_hex": "0000000000000000000000000000000033d0b44004b2af40",
+      "candidates_128_968": [
+        [
+          702,
+          723
+        ]
+      ]
+    },
+    "D": {
+      "sample_file": "Game/D_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "D",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 78432,
+      "raster_len": 78408,
+      "footer24_hex": "00000000000000000000000000000000776422408febf23f",
+      "candidates_128_968": [
+        [
+          132,
+          594
+        ],
+        [
+          162,
+          484
+        ],
+        [
+          198,
+          396
+        ],
+        [
+          216,
+          363
+        ],
+        [
+          242,
+          324
+        ],
+        [
+          264,
+          297
+        ]
+      ]
+    },
+    "E": {
+      "sample_file": "Game/E_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "E",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 148628,
+      "raster_len": 148604,
+      "footer24_hex": "0000000000000000000000000000000011fe3f40cb674240",
+      "candidates_128_968": [
+        [
+          194,
+          766
+        ],
+        [
+          383,
+          388
+        ]
+      ]
+    },
+    "F": {
+      "sample_file": "Game/F_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "F",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 316032,
+      "raster_len": 316008,
+      "footer24_hex": "000000000000000000000000000000001905d1400d203d40",
+      "candidates_128_968": [
+        [
+          342,
+          924
+        ],
+        [
+          378,
+          836
+        ],
+        [
+          396,
+          798
+        ],
+        [
+          399,
+          792
+        ],
+        [
+          418,
+          756
+        ],
+        [
+          456,
+          693
+        ],
+        [
+          462,
+          684
+        ],
+        [
+          504,
+          627
+        ],
+        [
+          513,
+          616
+        ],
+        [
+          532,
+          594
+        ]
+      ]
+    },
+    "H": {
+      "sample_file": "Game/H_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "H",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 97044,
+      "raster_len": 97020,
+      "footer24_hex": "00000000000000000000000000000000675dfc3fb4b24040",
+      "candidates_128_968": [
+        [
+          132,
+          735
+        ],
+        [
+          140,
+          693
+        ],
+        [
+          147,
+          660
+        ],
+        [
+          154,
+          630
+        ],
+        [
+          165,
+          588
+        ],
+        [
+          180,
+          539
+        ],
+        [
+          196,
+          495
+        ],
+        [
+          198,
+          490
+        ],
+        [
+          210,
+          462
+        ],
+        [
+          220,
+          441
+        ],
+        [
+          231,
+          420
+        ],
+        [
+          245,
+          396
+        ],
+        [
+          252,
+          385
+        ],
+        [
+          294,
+          330
+        ],
+        [
+          308,
+          315
+        ]
+      ]
+    },
+    "I": {
+      "sample_file": "Game/I_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "I",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 133257,
+      "raster_len": 133233,
+      "footer24_hex": "00000000000000000000000000000000bfaa7940a6fb0540",
+      "candidates_128_968": [
+        [
+          267,
+          499
+        ]
+      ]
+    },
+    "J": {
+      "sample_file": "Game/J_StructureBP_DrawingSheet_C.pnt",
+      "guid": "2cfab898-1ac6-4a03-8303-0d535f97b11f",
+      "version": 1,
+      "code": "J",
+      "class_name": "StructureBP_DrawingSheet_C",
+      "header_len": 78,
+      "body_len": 161346,
+      "raster_len": 161322,
+      "footer24_hex": "000000000000000000000000000000007a342140c3cf7a40",
+      "candidates_128_968": [
+        [
+          167,
+          966
+        ],
+        [
+          322,
+          501
+        ],
+        [
+          334,
+          483
+        ]
+      ]
+    }
+  },
+  "other_footer24_unique_counts": {
+    "Argent_Character_BP_C": 1,
+    "Dodo_Character_BP_C": 1,
+    "Doggo_Character_BP_C": 1,
+    "Flag_SM_C": 1,
+    "Flag_SM_Single_C": 1,
+    "PlayerPawnTest_Female_C": 1,
+    "Sign_LargePaintingCanvas_C": 1,
+    "Sign_Large_Metal_C": 1,
+    "Sign_Large_Wood_C": 1,
+    "Sign_PaintingCanvas_C": 1,
+    "Sign_Small_Metal_C": 1,
+    "Sign_Small_Wood_C": 1,
+    "Sign_Wall_Metal_C": 1,
+    "Sign_Wall_Wood_C": 1,
+    "Sign_WarMap_C": 1,
+    "StructureBP_SpotLight_C": 1
+  },
+  "notes": [
+    "raster_len = body_len - 24 (footer24).",
+    "candidates_128_968 are factor pairs (w,h) with 128<=w,h<=968; orientation not inferred.",
+    "For generation: header is extended_guid; footer24 varies per code for dynamic and per code for drawing sheet."
+  ]
+}

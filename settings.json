@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "language": "auto",
+  "user_translation_overrides": null,
+  "defaults": {
+    "preview_mode": null,
+    "show_game_object": null,
+    "use_all_dyes": null,
+    "best_colors": null,
+    "border_style": null,
+    "dither_mode": null,
+    "show_advanced": null
+  },
+  "advanced_defaults": {
+    "external_enabled": null,
+    "external_recursive": null,
+    "external_detect_guid": null,
+    "external_max_files": null,
+    "external_preserve_metadata": null,
+    "show_dino_tools": null
+  },
+  "window": {
+    "remember_geometry": false,
+    "geometry": null
+  }
+}
